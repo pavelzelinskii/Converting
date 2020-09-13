@@ -1,1 +1,1 @@
-# Converting
+The main idea of this project, that using Web-Services. User, changing his IP-address can know price on this product in his local currency. 2 commands: mvn package; java -Dip="IP-ADDRESS OF ANY COUNTRY" -cp ./target/Converting-1.0-jar-with-dependencies.jar core.Main
